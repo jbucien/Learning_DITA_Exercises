@@ -72,7 +72,9 @@
   </p>
   <fig>
    <title><i>The product list on the right updates as you make selections on the left</i></title>
-   <image href="scriptorium%20images%20used%20/configurebetter1.png"/>
+   <image
+    href="https://github.com/jbucien/Learning_DITA_Exercises/blob/main/configurebetter1.png?raw=true"
+    id="image_lvz_3yv_1pb"/>
   </fig>
  </conbody>
 </concept>
