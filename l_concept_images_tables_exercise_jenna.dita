@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_images_tables_exercise">
+ <title>Supporting marketing with technical content</title>
+ <conbody>
+  <p>Tech comm and marcom have long occupied opposite ends of the content spectrum. The stereotype is that tech comm is text-heavy, dense, and badly formatted whereas marcom is shiny, beautiful, and content-free. From there, the debate just intensifies:</p>
+  <table>
+   <title><i>Marcom versus tech comm: the stereotypes</i></title>
+   <tgroup cols="3">
+    <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+    <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+    <colspec colname="c3" colnum="3" colwidth="1.0*"/>
+    <thead>
+     <row>
+      <entry></entry>
+      <entry><p>Marcom</p></entry>
+      <entry><p>Tech comm</p></entry>
+     </row>
+    </thead>
+    <tbody>
+     <row>
+      <entry><p>Design or automation?</p></entry>
+      <entry><p>Design</p></entry>
+      <entry><p>Automation</p></entry>
+     </row>
+     <row>
+      <entry><p>How much detail?</p></entry>
+      <entry><p>As little as possible</p></entry>
+      <entry><p>As much as possible</p></entry>
+     </row>
+     <row>
+      <entry><p>Assumed impact on revenue</p></entry>
+      <entry><p>A lot</p></entry>
+      <entry><p>None</p></entry>
+     </row>
+     <row>
+      <entry><p>Primary purpose</p></entry>
+      <entry><p>Persuade people to buy</p></entry>
+      <entry><p>Inform people</p></entry>
+     </row>
+    </tbody>
+   </tgroup>
+  </table>
+  <simpletable>
+    <sthead>
+     <stentry></stentry>
+     <stentry><p>Marcom</p></stentry>
+     <stentry><p>Tech comm</p></stentry>
+    </sthead>
+   <strow>
+    <stentry><p>Design or automation?</p></stentry>
+    <stentry><p>Design</p></stentry>
+    <stentry><p>Automation</p></stentry>
+   </strow>
+   <strow>
+    <stentry><p>How much detail?</p></stentry>
+    <stentry><p>As little as possible</p></stentry>
+    <stentry><p>As much as possible</p></stentry>
+   </strow>
+   <strow>
+    <stentry><p>Assumed impact on revenue</p></stentry>
+    <stentry><p>A lot</p></stentry>
+    <stentry><p>None</p></stentry>
+   </strow>
+   <strow>
+    <stentry><p>Primary purpose</p></stentry>
+    <stentry><p>Persuade people to buy</p></stentry>
+    <stentry><p>Inform people</p></stentry>
+   </strow>
+  </simpletable>
+  <p>Give people a friendly interface that lets them quickly narrow down their options and choose the one they want. You don’t have to expose all of the fields in the database—just the ones that help people narrow down their choices.
+  </p>
+  <fig>
+   <title><i>The product list on the right updates as you make selections on the left</i></title>
+   <image href="scriptorium%20images%20used%20/configurebetter1.png"/>
+  </fig>
+ </conbody>
+</concept>
